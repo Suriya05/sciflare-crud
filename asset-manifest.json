@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sciflare_crud/static/css/main.57267c81.chunk.css",
+    "main.js": "/sciflare_crud/static/js/main.47cf975e.chunk.js",
+    "main.js.map": "/sciflare_crud/static/js/main.47cf975e.chunk.js.map",
+    "runtime-main.js": "/sciflare_crud/static/js/runtime-main.3e982ba3.js",
+    "runtime-main.js.map": "/sciflare_crud/static/js/runtime-main.3e982ba3.js.map",
+    "static/css/2.383c0125.chunk.css": "/sciflare_crud/static/css/2.383c0125.chunk.css",
+    "static/js/2.ff498c89.chunk.js": "/sciflare_crud/static/js/2.ff498c89.chunk.js",
+    "static/js/2.ff498c89.chunk.js.map": "/sciflare_crud/static/js/2.ff498c89.chunk.js.map",
+    "static/js/3.36f1029c.chunk.js": "/sciflare_crud/static/js/3.36f1029c.chunk.js",
+    "static/js/3.36f1029c.chunk.js.map": "/sciflare_crud/static/js/3.36f1029c.chunk.js.map",
+    "index.html": "/sciflare_crud/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/sciflare_crud/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.57267c81.chunk.css.map": "/sciflare_crud/static/css/main.57267c81.chunk.css.map",
+    "static/js/2.ff498c89.chunk.js.LICENSE.txt": "/sciflare_crud/static/js/2.ff498c89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e982ba3.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.ff498c89.chunk.js",
+    "static/css/main.57267c81.chunk.css",
+    "static/js/main.47cf975e.chunk.js"
+  ]
+}
